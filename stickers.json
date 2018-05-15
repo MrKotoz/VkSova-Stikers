@@ -1,0 +1,42 @@
+[
+	{
+		"id": "wat_blyadomouse",
+		"name": "БлядоМышь",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/packs/blyadomouse.zip",
+		"icon": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/thumbs/blyad_thumb.png",
+		"version": 1
+    },
+    {
+		"id": "wat_fforrespect",
+		"name": "Press F to pay respect",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/packs/fforrespect.zip",
+		"icon": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/thumbs/fftopay_thumb.png",
+		"version": 1
+    },
+    {
+		"id": "wat_pengun",
+		"name": "Пингвин",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/packs/pengun.zip",
+		"icon": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/thumbs/pengun_thumb.png",
+		"version": 1
+    },
+    {
+		"id": "wat_pepefrog",
+		"name": "Пепе",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/packs/pepefrog.zip",
+		"icon": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/thumbs/pepe_thumb.png",
+		"version": 1
+    },
+    {
+		"id": "wat_tommandjerry",
+		"name": "Том и Джерри",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/packs/tommandjerry.zip",
+		"icon": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/thumbs/tj_thumb.png",
+		"version": 1
+    }
+]
