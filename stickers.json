@@ -38,5 +38,13 @@
 		"url": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/packs/tommandjerry.zip",
 		"icon": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/thumbs/tj_thumb.png",
 		"version": 1
+    },
+    {
+		"id": "wat_yoba",
+		"name": "YOBA",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/packs/yoba.zip",
+		"icon": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/thumbs/yoba_thumb.png",
+		"version": 1
     }
 ]
