@@ -46,5 +46,14 @@
 		"url": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/packs/yoba.zip",
 		"icon": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/thumbs/yoba_thumb.png",
 		"version": 1
+     },
+     {
+		"id": "wat_tele2",
+		"name": "Пинг",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/packs/tele2.zip",
+		"icon": "https://raw.githubusercontent.com/MrKotoz/VkSova-Stikers/master/thumbs/tele2_thumb.png",
+		"version": 1
     }
 ]
+
